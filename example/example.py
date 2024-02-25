@@ -1,7 +1,7 @@
 # Import the notebook_to_python function
 from notebook2py import notebook_to_python
 
-# Set the notebook and output filenames
+# Set the notebook you want to transform to py
 notebook_file = "notebook1.ipynb"
 
 # Convert the notebook using the default settings
