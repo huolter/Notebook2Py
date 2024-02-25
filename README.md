@@ -26,5 +26,3 @@ print(f"Successfully converted {notebook_file} into {output_file}!")
 ```
 
 :-)
-
- s
