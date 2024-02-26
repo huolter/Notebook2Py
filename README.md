@@ -7,6 +7,10 @@
 * Preserves code execution order.
 * Adds a header comment indicating the source notebook (optional).
 
+To start using it just copy the notebook2py.py script to your root and import notebook_to_python. 
+
+Also, check the example/ folder in this repo. 
+
 ## Simple example ussage:
 
 ```python
